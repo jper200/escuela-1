@@ -1,16 +1,5 @@
+basic.showIcon(IconNames.Square)
 basic.forever(function () {
-    basic.showLeds(`
-        . # . # .
-        # . # . #
-        # . . . #
-        . # . # .
-        . . # . .
-        `)
-    basic.showLeds(`
-        . . . . .
-        . # . # .
-        . # # # .
-        . . # . .
-        . . . . .
-        `)
+    basic.showIcon(IconNames.Heart)
+    basic.showIcon(IconNames.SmallHeart)
 })

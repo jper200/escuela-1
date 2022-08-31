@@ -1,13 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="gV0JKK0!nILpRKa${wT;" x="27" y="61"><statement name="HANDLER"><block type="device_show_leds" id="d*;lVL@YIN8fHTi.Zdhl"><field name="LEDS">`
-        . # . # . 
-        # . # . # 
-        # . . . # 
-        . # . # . 
-        . . # . .
-        `</field><next><block type="device_show_leds" id="B9ycC,iD%8JA12v,Dpy{"><field name="LEDS">`
-        . . . . . 
-        . # . # . 
-        . # # # . 
-        . . # . . 
-        . . . . .
-        `</field></block></next></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="gV0JKK0!nILpRKa${wT;" x="63" y="106"><statement name="HANDLER"><block type="basic_show_icon" id="sTOhT8rm-a.l!n#d6@[2"><field name="i">IconNames.Heart</field><next><block type="basic_show_icon" id="!%w/j*,XxwMh(9-;IsS}"><field name="i">IconNames.SmallHeart</field></block></next></block></statement></block><block type="pxt-on-start" id="RF$7{p!FN][O`=$H`c:u" x="364" y="147"><statement name="HANDLER"><block type="basic_show_icon" id="T%HpAeJ738Q/jHMkp42b"><field name="i">IconNames.Square</field></block></statement></block></xml>
